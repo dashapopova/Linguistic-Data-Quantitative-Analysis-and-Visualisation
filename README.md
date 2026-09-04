@@ -29,10 +29,10 @@ Final project is the exam. Final grade is rounded in favor of the student.
     <td>05.09. </td>
     <td>   
     <a href="https://github.com/dashapopova/Linguistic-Data-Quantitative-Analysis-and-Visualisation/blob/main/parsing/markdown(2).md">Markdown</a><br>
-    <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week4/PP_classes.ipynb">Classes</a><br>
-<a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week4/PPSem1.ipynb">Pymystem, pymorphy</a><br>
-<a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week4/PP_SpaCy.ipynb">Syntactic parsing</a><br>
-<a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week4/NER.ipynb">NER</a></td>
+    <a href="https://github.com/dashapopova/Linguistic-Data-Quantitative-Analysis-and-Visualisation/blob/main/parsing/LDQAV_classes.ipynb">Classes</a><br>
+<a href="https://github.com/dashapopova/Linguistic-Data-Quantitative-Analysis-and-Visualisation/blob/main/parsing/LDQAV_MorphAnalysis.ipynb">Morphological Analysis and Parsing</a><br>
+<a href="https://github.com/dashapopova/Linguistic-Data-Quantitative-Analysis-and-Visualisation/blob/main/parsing/LDQAV_SpaCy.ipynb">Syntactic parsing</a><br>
+<a href="https://github.com/dashapopova/Linguistic-Data-Quantitative-Analysis-and-Visualisation/blob/main/parsing/LDQAV_NER.ipynb">NER</a></td>
     <td></td>
     <td></td>
     <td>Tutorial on classes (https://www.w3schools.com/python/python_classes.asp)<br>
