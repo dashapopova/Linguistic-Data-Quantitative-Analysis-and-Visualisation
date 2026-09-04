@@ -10,8 +10,8 @@ Sut, 11.10 -- 14.20, online
 * Daria Popova (Dasha, Дарья Павловна Попова ([почта](mailto:daschapopowa@gmail.com)))
 
 ### Grade calculator
-* **30% -- assignment 1** 
-* **30% -- assignment 2** 
+* **30% -- homework 1** 
+* **30% -- homework 2** 
 * **40% -- final project** 
 
 Final project is the exam. Final grade is rounded in favor of the student. 
@@ -28,7 +28,7 @@ Final project is the exam. Final grade is rounded in favor of the student.
    <tr>
     <td>05.09. </td>
     <td>   
-    <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week1/markdown.md">Markdown</a><br>
+    <a href="https://github.com/dashapopova/Linguistic-Data-Quantitative-Analysis-and-Visualisation/blob/main/parsing/markdown(2).md">Markdown</a><br>
     <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week4/PP_classes.ipynb">Classes</a><br>
 <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week4/PPSem1.ipynb">Pymystem, pymorphy</a><br>
 <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week4/PP_SpaCy.ipynb">Syntactic parsing</a><br>
