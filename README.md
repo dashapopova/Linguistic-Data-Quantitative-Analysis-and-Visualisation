@@ -45,7 +45,7 @@ Final project is the exam. Final grade is rounded in favor of the student.
     </td>
     <td></td>
     <td></td>
-    <td>
+    <td><a href="https://sqlbolt.com/lesson/introduction">Tutorial</a>
     </td>
   </tr>
     <td>19.09. </td>
