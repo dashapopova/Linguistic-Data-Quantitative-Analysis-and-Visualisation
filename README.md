@@ -41,7 +41,7 @@ Final project is the exam. Final grade is rounded in favor of the student.
   </tr>
   <tr>
     <td>12.09. </td>
-    <td> Different Data Formats
+    <td> <a href="https://github.com/dashapopova/Linguistic-Data-Quantitative-Analysis-and-Visualisation/tree/main/formats">Different Data Formats</a>
     </td>
     <td></td>
     <td></td>
