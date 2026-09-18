@@ -49,7 +49,7 @@ Final project is the exam. Final grade is rounded in favor of the student.
     </td>
   </tr>
     <td>19.09. </td>
-    <td> Plots and graphs
+    <td> <a href="https://github.com/dashapopova/Linguistic-Data-Quantitative-Analysis-and-Visualisation/tree/main/visualization">Plots and graphs</a>
   </td>
     <td>Homework 1</td>
     <td></td>
