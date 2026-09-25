@@ -57,7 +57,7 @@ Final project is the exam. Final grade is rounded in favor of the student.
    </tr>
     <tr>
     <td>26.09. </td>
-    <td> Vectorization, Word2Vec, BERT
+    <td> <a href="https://github.com/dashapopova/Linguistic-Data-Quantitative-Analysis-and-Visualisation/tree/main/vectorization">Vectorization, Word2Vec, BERT</a>
     </td>
     <td></td>
     <td></td>
