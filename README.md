@@ -74,7 +74,7 @@ Final project is the exam. Final grade is rounded in favor of the student.
   </tr>
     <tr>
     <td>10.10 </td>
-    <td> Practice
+    <td> <a href="https://github.com/dashapopova/Linguistic-Data-Quantitative-Analysis-and-Visualisation/tree/main/practice">Practice</a>
   </td>
     <td>Homework 2</td>
   <td></td>
