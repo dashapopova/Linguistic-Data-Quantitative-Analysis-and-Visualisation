@@ -91,7 +91,7 @@ Final project is the exam. Final grade is rounded in favor of the student.
   </tr>
     <tr>
     <td>24.10</td>
-    <td>Final Projects Presentation</td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Final Projects Presentations</a></td>
     <td></td>
     <td>Final Project is Due</td>
     <td></td>
