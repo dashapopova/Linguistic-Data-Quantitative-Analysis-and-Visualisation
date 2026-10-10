@@ -84,7 +84,7 @@ Final project is the exam. Final grade is rounded in favor of the student.
     <td>17.10</td>
     <td>Independent work on the final project/Consultation
   </td>
-    <td></td>
+    <td><a href="https://github.com/dashapopova/Linguistic-Data-Quantitative-Analysis-and-Visualisation/blob/main/assignments/Final%20Project%20Guidelines.md">Final Project Guidelines</a></td>
     <td>Homework 2 is Due 16.10</td>
     <td></td>
   </tr>
