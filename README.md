@@ -85,7 +85,7 @@ Final project is the exam. Final grade is rounded in favor of the student.
     <td>Independent work on the final project/Consultation
   </td>
     <td></td>
-    <td>Homework 2 is Due</td>
+    <td>Homework 2 is Due 16.10</td>
     <td></td>
   </tr>
   </tr>
@@ -93,7 +93,7 @@ Final project is the exam. Final grade is rounded in favor of the student.
     <td>24.10</td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Final Projects Presentations</a></td>
     <td></td>
-    <td>Final Project is Due</td>
+    <td>Final Project is Due 23.10</td>
     <td></td>
   </tr>
 </table>
