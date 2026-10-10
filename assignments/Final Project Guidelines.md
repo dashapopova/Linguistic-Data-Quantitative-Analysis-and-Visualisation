@@ -16,6 +16,8 @@ Final Project is the exam for this class (there won't be a separate exam meeting
 
 Final project as a homework that you design for yourself. Ideally, your project should help you with your linguistic research outside of the course.
 
+Final project can be part of your bigger projects, but it should be independent, new work that you haven't done for another course or project in the past.
+
 ### Some suggestions:
 
 * a project that analyzes fieldwork data (db, dataframes, parsing, visualization)
